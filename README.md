@@ -57,3 +57,9 @@ rg -n 'AVAssetWriter|PHPhotoLibrary|URLSession|NWConnection|FileHandle|Data\.wri
 ```
 
 预期结果为空。
+
+## 开源许可证
+
+本项目采用 **GNU 通用公共许可证第 3 版（GPL-3.0-only）** 授权。
+
+有关详细的许可条款，请参阅 [LICENSE](LICENSE) 文件。
